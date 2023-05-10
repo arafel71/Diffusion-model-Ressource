@@ -31,3 +31,9 @@ Generative Modeling by Estimating Gradients of the Data Distribution
 Yang Song, Stefano Ermon
 https://arxiv.org/abs/1907.05600
 12 Jul 2019
+
+
+Denoising Diffusion Probabilistic Models
+Jonathan Ho, Ajay Jain, Pieter Abbeel
+https://arxiv.org/abs/2006.11239
+19 Jun 2020
