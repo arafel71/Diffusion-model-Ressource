@@ -26,3 +26,8 @@ Deep Unsupervised Learning using Nonequilibrium Thermodynamics
 Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
 https://arxiv.org/abs/1503.03585
 12 Mar 2015
+
+Generative Modeling by Estimating Gradients of the Data Distribution
+Yang Song, Stefano Ermon
+https://arxiv.org/abs/1907.05600
+12 Jul 2019
