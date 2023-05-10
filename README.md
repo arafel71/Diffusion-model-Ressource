@@ -1,8 +1,6 @@
 
 Contents
 
-Introductory Posts
-
 
 
 Introductory Posts:
