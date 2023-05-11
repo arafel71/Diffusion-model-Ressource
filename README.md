@@ -37,3 +37,9 @@ Denoising Diffusion Probabilistic Models
 Jonathan Ho, Ajay Jain, Pieter Abbeel
 https://arxiv.org/abs/2006.11239
 19 Jun 2020
+
+Diffusion Models Beat GANs on Image Synthesis
+Prafulla Dhariwal, Alex Nichol
+https://arxiv.org/abs/2105.05233
+11 May 2021
+
